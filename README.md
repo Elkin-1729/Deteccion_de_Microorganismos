@@ -12,5 +12,5 @@ Los datos del proyecto vienen de [La competición Kaggle: Cyanotoxins Identifica
 
 ## Video entrega
 
-Video [Video entrega 2](https://youtu.be/LJDzDPp04RY)
+Video [Video entrega](https://youtu.be/LJDzDPp04RY)
 
