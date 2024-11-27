@@ -1,4 +1,4 @@
-# Proyecto: Cyanotoxins Identification Dataset
+# Proyecto: Cyanotoxins Identification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elkin-1729/Deteccion_de_Microorganismos)
 
@@ -8,7 +8,7 @@
 
 ## Datos
 
-Los datos del proyecto vienen de [La competición Kaggle Online Product Sales](https://www.kaggle.com/datasets/mudasirazhar/cyanotoxins-identification-dataset).
+Los datos del proyecto vienen de [La competición Kaggle: Cyanotoxins Identification Dataset](https://www.kaggle.com/datasets/mudasirazhar/cyanotoxins-identification-dataset).
 
 ## Video entrega
 
