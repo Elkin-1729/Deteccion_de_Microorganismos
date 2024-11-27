@@ -1,26 +1,16 @@
-# Proyecto: Detección de Microorganismos
+# Proyecto: Cyanotoxins Identification Dataset
 
-## Miembro del grupo
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elkin-1729/Deteccion_de_Microorganismos)
 
-- Elkin David Sanchez Vélez, CC 1007104359, Ingeniería Civil
+## Estudiante
+
+- Elkin David Sanchez Vélez
 
 ## Datos
 
-Los datos utilizados en este proyecto provienen de diversos conjuntos públicos relacionados con células sanguíneas y malaria. Se pueden acceder a través de:
+Los datos del proyecto vienen de [La competición Kaggle Online Product Sales](https://www.kaggle.com/datasets/mudasirazhar/cyanotoxins-identification-dataset).
 
-- [Blood Cells Image Dataset](https://www.kaggle.com/datasets/unclesamulus/blood-cells-image-dataset)
-- [Blood Cell Images](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)
-- [Blood Cell Detection Dataset](https://www.kaggle.com/datasets/adhoppin/blood-cell-detection-datatset)
-- [Malaria Bounding Boxes Dataset](https://www.kaggle.com/datasets/kmader/malaria-bounding-boxes)
+## Video entrega
 
-## Descripción del Proyecto
-
-Este proyecto se enfoca en el desarrollo de un modelo de aprendizaje profundo para la **detección y clasificación de microorganismos** en imágenes microscópicas, utilizando redes neuronales convolucionales (CNN). El objetivo es procesar imágenes segmentadas de microorganismos y clasificarlos en sus respectivas categorías de acuerdo con sus características morfológicas.
-
-### Tecnologías utilizadas:
-
-- **TensorFlow** para la construcción de modelos neuronales.
-- **Keras** para la implementación de redes convolucionales.
-- **Python** como lenguaje principal.
-- **Colab** para la ejecución en la nube.
+Video [Video entrega 2](https://youtu.be/LJDzDPp04RY)
 
