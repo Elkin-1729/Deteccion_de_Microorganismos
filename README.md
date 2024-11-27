@@ -8,7 +8,7 @@
 
 ## Datos
 
-Los datos del proyecto vienen de [La competición Kaggle: Cyanotoxins Identification Dataset](https://www.kaggle.com/datasets/mudasirazhar/cyanotoxins-identification-dataset).
+Los datos del proyecto vienen de [Kaggle: Cyanotoxins Identification Dataset](https://www.kaggle.com/datasets/mudasirazhar/cyanotoxins-identification-dataset).
 
 ## Video entrega
 
